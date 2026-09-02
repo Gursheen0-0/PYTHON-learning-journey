@@ -10,3 +10,13 @@ elif age>=30:
     print("Damnn you are an UNC atp")
 else:
     print("you are a Teenager")
+
+
+#boolean with if statements
+"""
+is_sale= True
+if is_sale:
+    print("YAY! IT'S A SALE")
+else:
+    print("SORRY! IT'S NOT A SALE
+    """
