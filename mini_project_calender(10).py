@@ -1,4 +1,3 @@
-#THIS IS MY 10TH MINI PROJECT
 import calendar
 month=int(input("ENTER THE MONTH:"))
 year=int(input("ENTER THE YEAR:"))
