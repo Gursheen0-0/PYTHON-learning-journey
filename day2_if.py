@@ -2,9 +2,11 @@
 #else: some other thing is true
 age=int(input("Enter your age: "))
 
-if age>19:
+if 30>age>19:
     print("WOW! YOU ARE AN ADULT")
 elif age<13:
     print("you are a BABY")
+elif age>=30:
+    print("Damnn you are an UNC atp")
 else:
     print("you are a Teenager")
