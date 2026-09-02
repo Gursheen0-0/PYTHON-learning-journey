@@ -1,4 +1,3 @@
-
 a = int(input("ENTER your number: "))
 if a%2==0:
     print("YOUR NUMBER IS EVEN")
